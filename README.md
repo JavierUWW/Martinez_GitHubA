@@ -1,5 +1,6 @@
 # Martinez_GitHubA
-__Github Project_
+__Github Project__
+
 ***Assignment 8***
 Assignment 8 consists of a png gif of the sun and clouds moving with a blue background
 There are then 2 images of birds one at the top left and one at the bottom right
